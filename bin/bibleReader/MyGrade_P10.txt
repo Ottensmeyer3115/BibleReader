@@ -1,0 +1,9 @@
+My Self-evaluation: Fred Ottensmeyer
+-----------------------
+Time spent:    6 hours
+-----------------------
+Expected Grade: 90/100%
+-----------------------
+Justification:  I ran the JUnit tests and was able to get everything working properly.   I'm extremely tired because these tests took some time.  But I definately put in a solid effort.  I'm sure theres still some problems I missed.
+
+

@@ -1,0 +1,10 @@
+My Self-evaluation:
+-----------------------
+Time spent:    _12_ Hours
+-----------------------
+Expected Grade: _90_/100%
+-----------------------
+Justification: Spent a lot of time making sure the tests worked which they do.  I utilized the help sessions every night this week to check and make sure everything
+I implemented was done so correctly.  I had to spend a significant amount of time on Oracles website to find the reason some of my tests were failing.  I also made good
+use of the debugger to track down the specific part of the method that was failing and why it failed.  Over all, this took a significant amount of time.  But in the end
+I ended up learning a lot, so that if these types of errors occur again I'll know what to do.
