@@ -1,0 +1,8 @@
+My Self-evaluation: Fred Ottensmeyer and Brandon Maurice
+-----------------------
+Time spent:    7 hours
+-----------------------
+Expected Grade: 90/100%
+-----------------------
+Justification:  We ran the JUnit tests and was able to get everything working properly.  Not only that, but we were able to improve the run time of a few tests.
+  So I was able to spend some extra time better implementing my tree map. 
